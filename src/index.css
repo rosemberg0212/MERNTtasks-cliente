@@ -98,7 +98,7 @@ a {
   }
 
   aside {
-      background-color: var(--blanco);
+      background-color: #ffffff;
       flex: 0 0 300px;
   }
   .seccion-principal {
